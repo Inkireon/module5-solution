@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 30" width="80" height="30">
+  <!-- Background -->
+  <rect width="80" height="30" rx="4" fill="#1a1a1a"/>
+  <!-- Star -->
+  <polygon points="12,4 14,10 20,10 15,14 17,20 12,16 7,20 9,14 4,10 10,10" fill="#f8c146"/>
+  <!-- K text -->
+  <text x="24" y="21" font-family="Arial" font-weight="bold" font-size="16" fill="#f8c146">K</text>
+  <!-- Kosher text -->
+  <text x="36" y="13" font-family="Arial" font-size="7" fill="#ccc">KOSHER</text>
+  <text x="36" y="23" font-family="Arial" font-size="7" fill="#ccc">CERTIFIED</text>
+</svg>
